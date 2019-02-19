@@ -8,3 +8,4 @@ You can download and use index.html locally or use this link: http://htmlpreview
 #Drop both JSON files on the file drop zone
 #Press generatemap
 
+![alt text](https://raw.githubusercontent.com/ilius33/TiledMapToASCII/master/Tiled2ASCII.gif)
